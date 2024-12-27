@@ -1,9 +1,9 @@
 ## 프로그램 개요
 
 - [회로도](https://www.circuitstate.com/wp-content/uploads/2023/10/STM8S-Blue-STM8S103F3P6-Generic-Development-Board-Schematic-Diagram-R0.1-CIRCUITSTATE-Electronics-1_1.png)
-- [결선도](https://yooaroma.com/mm/image/stm8/stm8blue/stm8blue_blink_text.jpg)
-- [동영상](https://youtu.be/91NS3JlYVoQ?si=maEv8KytppFKadTg)
-- [프로그램 소스](https://github.com/yooaroma/stm8blue_blink)
+- [결선도](https://yooaroma.com/mm/image/stm8/stm8blue/stm8blue_blink_key_text.jpg)
+- [동영상](https://youtu.be/1DKdeK5Q6ho)
+- [프로그램 소스](https://github.com/yooaroma/stm8blue_blink_key)
 
 ## ST 마이컴 개발시 설치 TOOLS
 
